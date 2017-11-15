@@ -1,2 +1,12 @@
+title: Sacramento Urban Technology Lab
+description: Accelerating quality of life for all Sacramentans through data-driven testing and experimentation.
+url: https://sutl.innovatesac.org
+logo: /img/favicon.jpg
+twitter_username: innovatesac
+github_username:  innovatesac
+
+plugins:
+  - jekyll-seo-tag
+
 # Server Config options
 # livereload: true     # You no longer need to include --livereload
