@@ -5,8 +5,14 @@ logo: /img/favicon.jpg
 twitter_username: innovatesac
 github_username:  innovatesac
 
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-97991361-3       # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-analytics
 
 # Server Config options
 # livereload: true     # You no longer need to include --livereload
