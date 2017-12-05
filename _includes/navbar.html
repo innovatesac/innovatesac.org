@@ -35,7 +35,9 @@
         </div>
     </nav>
 
-    {% include home/intro.html %}
+    {% if page.layout == 'home' %}
+      {% include home/intro.html %}
+    {% endif %}
 
 </header>
 <!--Main Navigation-->
