@@ -1,19 +1,14 @@
 body {
   background-color: #fafafa;
 }
-.top-nav-collapse {
-    background-color: #aa66cc !important;
-}
 .navbar:not(.top-nav-collapse) {
     background: transparent !important;
 }
-@media (max-width: 768px) {
-    .navbar:not(.top-nav-collapse) {
-        background: #aa66cc !important;
-    }
-}
 h1 {
     letter-spacing: 8px;
+}
+.h1 {
+  font-weight: bold;
 }
 h5 {
     letter-spacing: 3px;
@@ -22,14 +17,33 @@ h5 {
     border-top: 3px solid #fff;
     width: 80px;
 }
-@media (max-width: 740px) {
-    .full-height,
-    .full-height body,
-    .full-height header,
-    .full-height header .view {
-        height: 700px;
-    }
-}
 .card .card-text {
   color: #fff;
+}
+.card.card-cascade.wider.reverse .card-body {
+  margin-top: -300px;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-radius: 6px;
+}
+@media (max-width: 768px) {
+  .card.card-cascade.wider.reverse .card-body {
+    margin-top: -100px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+.cover-image {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+}
+.page-heading {
+  font-size: 2rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 2px;
+  margin-bottom: .5rem;
+  color: inherit;
 }

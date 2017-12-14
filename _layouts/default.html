@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en" class="full-height">
+
+<html lang="en">
 
 <head>
   {% include head.html %}
@@ -11,6 +12,10 @@
     {% include navbar.html %}
 
     {{ content }}
+
+    {% if page.comments %}
+      {% include comments.html %}
+    {% endif %}
 
     {% include footer.html %}
   </body>

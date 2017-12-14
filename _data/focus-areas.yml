@@ -1,0 +1,21 @@
+- title: Mobility
+  icon: car
+  color: rgba-orange-strong
+- title: Clean Tech and Sustainability
+  icon: leaf
+  color: rgba-green-strong
+- title: Health IT and Life Sciences
+  icon: heartbeat
+  color: rgba-blue-strong
+- title: Food Systems
+  icon: cutlery
+  color: rgba-brown-strong
+- title: Internet of Things (IoT) and Cybersecurity
+  icon: shield
+  color: rgba-red-strong
+- title: Govtech and Civic Tech
+  icon: university
+  color: rgba-grey-strong
+- title: Workforce Development
+  icon: briefcase
+  color: rgba-indigo-strong
