@@ -38,6 +38,9 @@ h5 {
   background-position: center;
   width: 100%;
 }
+.section img {
+  width: 100%;
+}
 .page-heading {
   font-size: 2rem;
   font-family: inherit;
