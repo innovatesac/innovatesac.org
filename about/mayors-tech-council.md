@@ -66,7 +66,7 @@ Brook Taylor is the Senior State Regulatory Affairs Specialist for Mercedes-Benz
 
 Prior to joining Mercedes, he was a senior aide to Governor Jerry Brown as deputy director at the California Governor's Office of Business and Economic Development (GO-Biz).  All total he has served two California Governors as an appointee, previously as a Senior Policy Analyst for Governor Arnold Schwarzenegger. He graduated from the University of Oregon School of Journalism and is still waiting for a call from Rolling Stone magazine to become a rock journalist.
 
-## #Justin Fanslau
+## Justin Fanslau
 
 ##### Strategies 360
 
