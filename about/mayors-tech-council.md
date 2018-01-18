@@ -66,7 +66,7 @@ Brook Taylor is the Senior State Regulatory Affairs Specialist for Mercedes-Benz
 
 Prior to joining Mercedes, he was a senior aide to Governor Jerry Brown as deputy director at the California Governor's Office of Business and Economic Development (GO-Biz).  All total he has served two California Governors as an appointee, previously as a Senior Policy Analyst for Governor Arnold Schwarzenegger. He graduated from the University of Oregon School of Journalism and is still waiting for a call from Rolling Stone magazine to become a rock journalist.
 
-## #Justin Fanslau
+## Justin Fanslau
 
 ##### Strategies 360
 
@@ -157,13 +157,14 @@ Mr. Youssefi currently serves on the Board of Directors of the National Iranian 
 
 ##### Capsity
 
-Jeff Louie is a Sacramento native and UC Berkeley Alumni.  In 2008, he founded Capsity, Inc., a CA Benefit Corporation that serves as a hybrid model of business development and community engagement space for entrepreneurs and business professionals. In 2012 Capsity moved into unique position as an owner-occupied space with a 4500 sq. ft. commercial building in Sacramento, CA. Today Capsity, Inc. is home to 70+ businesses and community based organizations.
-
-As a serial entrepreneur Jeff has started several companies and projects revolving around video media & marketing, events management, and mobile app development. He has 13 years of broad experience across multiple industries including information technology, education, media, and real estate. Currently Jeff is working on a Startup mobile app platform built on geo-fencing technology which is aiming to launch in 2014.
-
-Jeff also participates in several local community based organizations at different capacities. He serves as a Board member on both the Sacramento Asian Chamber of Commerce and the Benefit Corporations Standards Institute, Inc., a committee member on Sacramento Region Community Foundation’s Community Impact Committee, and as a Committee member on Metro EDGE’s Communication Committee.
-
-Jeff was recently recognized as a 40 under 40 by the Sacramento Business Journal and was spotlighted in the March 2013 issue of Comstock’s Magazine with other young professionals. 
+Jeff Louie is a Sacramento native and UC Berkeley Alumni. In 2008 he founded Capsity, Inc., a CA Benefit Corporation that serves as a hybrid model of business development and community engagement space for Sacramento entrepreneurs and business professionals. In 2012 Capsity moved into unique position as an owner occupied space with a 4500 sq. ft. commercial building in Sacramento, CA. In 2018, Capsity will be expanding into a 10,000 sq. ft. 2nd location in Oak Park and develop more resources towards the mission of zero barriers for entrepreneurship in Sacramento. 
+ 
+As a serial entrepreneur Jeff has started several companies and projects revolving around financial services, video media & marketing, events management, mobile app development, and most recently quick food service. He has 16 years of broad experience across multiple industries including information technology, education & workforce, media creation, operations management, and real estate development. 
+ 
+In 2015, Jeff moved to Redwood City, CA but maintains a deep involvement in Sacramento's Innovation and Entrepreneurial Ecosystem. In past volunteer leadership roles he served as a Board Member of the Sacramento Asian Chamber of Commerce, Board Member of the Benefit Corporations Standards Institute, a committee member on the Sacramento Region Community Foundation's Community Impact Committee, and as a committee member on Metro EDGE's Communication Committee.
+ 
+Jeff was recognized as a 40 under 40 by the Sacramento Business Journal in 2012 and was spotlighted in the March 2013 issue of Comstock’s Magazine with other young professionals. 
+ 
 
 ## Amy Tong
 
