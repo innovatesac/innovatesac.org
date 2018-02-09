@@ -3,6 +3,7 @@ layout: video
 title: Reinvigorating the Arts in Sacramento
 comments: true
 youtube: Y3c9LkNbNMA
+button: square-root
 ---
 
 Entrepreneurs Showcase Accelerator Demo Day.
