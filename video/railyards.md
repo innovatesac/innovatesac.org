@@ -6,6 +6,4 @@ youtube: rmqutHA6GUs
 button: arts-and-culture
 ---
 
-Could Downtown Sac be getting a new MLS stadium? We give you an inside look at the developing Sacramento Railyards and their newest tenant, Sacramento Republic FC.
-
-A big thank you to Denton Kelley of LDK Ventures and Erika Bjork from Republic FC.
+Could Downtown Sac be getting a new MLS stadium? Take an inside look at the developing Sacramento Railyards and their newest tenant, Sacramento Republic FC.
