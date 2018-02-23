@@ -24,13 +24,9 @@
               {{ content }}
             </div>
 
-            <div class="items text-muted">
-              <div id="projects" class="container">
-                <div class="row">
+            <div class="card-deck">
                   {% for bio in site.data.mayors-tech-council %}
-                  <div class="col-md-4 col-sm-6">
-            <!--Card Wider-->
-                <div class="card card-cascade wider">
+                  <div class="col-md-4">
 
                     <!--Card image-->
                     <div class="view overlay">
@@ -60,13 +56,10 @@
                     </div>
                     <!--/.Card content-->
 
-                </div>
                 <!--/.Card Wider-->
 
                   </div>
                   {% endfor %}
-                </div>
-              </div>
 
           </div>
           <!--Page content-->
