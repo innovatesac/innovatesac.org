@@ -30,7 +30,7 @@
 
                     <!--Card image-->
                     <div class="view overlay">
-                        <img src="/img/mayors-tech-council/{{bio.slug}}.jpg" class="img-fluid">
+                        <img src="/img/mayors-tech-council/{{bio.slug}}.png" class="img-fluid">
                         <a href="/projects/{{ bio.slug }}">
                             <div class="mask rgba-white-slight"></div>
                         </a>
@@ -38,19 +38,17 @@
                     <!--/Card image-->
 
                     <!--Card content-->
-                    <div class="card-body text-center">
+                    <div class="card-body">
                         <!--Title-->
                         <h4 class="black-text"><strong>{{ bio.full-name }}</strong></h4>
                         <h5><i>{{ bio.title}}</i></h5>
-                        <h5 class="indigo-text"><strong>{{ bio.organization}}</strong></h5>
+                        <h5 class="cyan-text"><strong>{{ bio.organization}}</strong></h5>
 
                         <p class="black-text"> {{ bio.bio_short }} </p>
-
+                        <a class="btn btn-flat"></a>
 
                         <p class="float-right">
-                          <a href="/projects/{{ bio.slug }}">
-                            See Full <i class="fa fa-chevron-right"></i>
-                          </a>
+                          <a class="btn btn-info btn-rounded">More</a>
                         </p>
 
                     </div>
