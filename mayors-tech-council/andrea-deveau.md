@@ -1,0 +1,9 @@
+---
+layout: council
+full-name: Andrea Deveau
+reference: andrea-deveau
+title: Vice President, State Policy and Politics
+organization: TechNet
+---
+
+<p>Andrea Deveau is a seasoned advocacy veteran with deep experience in energy and technology policy.  She serves as TechNet’s Vice President of State Policy and Politics.  Based in Sacramento, Andrea is responsible for leading TechNet’s 50-state advocacy program.  Prior to her appointment as Vice President in November 2016, Andrea served as TechNet’s Executive Director for California and the Southwest for three years, where she has raised the organization’s profile and secured numerous legislative victories on advanced energy, the sharing economy, STEM and computer science education, and cybersecurity issues.  Before joining TechNet, Andrea served as the Senior Director of Policy Innovation at Direct Energy for more than 13 years, where she had multi-state, regional, and national responsibilities for local and state government policy development and relationships.  She was a regular contributor to the energy blog Energy Management Today and has authored op-eds and white papers on various policy initiatives related to advanced energy markets.  Andrea has served as a Steering Committee Member for the California Alliance for Competitive Energy Solutions, President of the Alliance for Retail Energy Markets, and Board Member of the Arizona Independent System Administrator.  In 2012, she received the Western Power Trading Forum’s Kent Wheatland Award in recognition of her efforts in advocating for competitive energy market policy.  In January 2016, Andrea was appointed to the California Million Women Mentors Honorary Leadership Council and has been a key advocate for STEM and computer science programs.  Andrea is a graduate of the University of Arizona, earning a Bachelor of Science and Business Administration with a focus on Business and Marketing.</p>
