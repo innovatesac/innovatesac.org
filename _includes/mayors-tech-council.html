@@ -1,0 +1,71 @@
+<!--Section-->
+<section class="section section-blog-fw pb-3">
+
+  <!--Grid row-->
+  <div class="row">
+    <div class="col-md-12">
+
+      <!--Featured image-->
+      <div class="cover-image">
+        <img src="/img/focus-areas/{{ page.title | slugify }}.jpg" alt="{{ page.title }}">
+        <div class="rgba-brown-strong">
+
+          </div>
+        </div>
+
+          <!--Content area-->
+          <div class="card card-cascade wider">
+          <!--Page content-->
+
+
+          <div class="card-body">
+            <h1 class="page-heading text-center py-4">{{ page.title }}</h1>
+            <div class="excerpt">
+              {{ content }}
+            </div>
+
+            <div class="card-deck">
+                  {% for bio in site.data.mayors-tech-council %}
+                  <div class="col-md-4">
+
+                    <!--Card image-->
+                    <div class="view overlay">
+                        <img src="/img/mayors-tech-council/{{bio.slug}}.png" class="img-fluid">
+                        <a href="/mayors-tech-council/{{ bio.slug }}">
+                            <div class="mask rgba-white-slight"></div>
+                        </a>
+                    </div>
+                    <!--/Card image-->
+
+                    <!--Card content-->
+                    <div class="card-body">
+                        <!--Title-->
+                        <h4 class="black-text"><strong>{{ bio.full-name }}</strong></h4>
+                        <h5><i>{{ bio.title}}</i></h5>
+                        <h5 class="cyan-text"><strong>{{ bio.organization}}</strong></h5>
+
+                        <p class="black-text"> {{ bio.bio_short }} </p>
+                        <a class="btn btn-flat"></a>
+
+                        <p class="float-right">
+                          <a class="btn btn-info btn-rounded" href="/mayors-tech-council/{{ bio.slug }}">More</a>
+                        </p>
+
+                    </div>
+                    <!--/.Card content-->
+
+                <!--/.Card Wider-->
+
+                  </div>
+                  {% endfor %}
+
+          </div>
+          <!--Page content-->
+        </div>
+
+    </div>
+  </div>
+  <!--Grid row-->
+
+</section>
+<!--Section-->

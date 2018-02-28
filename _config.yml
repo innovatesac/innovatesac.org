@@ -22,5 +22,6 @@ defaults:
     values:
       image: /img/sut-cover.jpg
 
+
 # Server Config options
 # livereload: true     # You no longer need to include --livereload
