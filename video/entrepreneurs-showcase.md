@@ -4,6 +4,7 @@ title: Entrepreneurs Showcase Demo Day
 comments: true
 youtube: Y3c9LkNbNMA
 button: square-root
+photo: pitch-mic
 ---
 
 Entrepreneurs Showcase Accelerator Demo Day.

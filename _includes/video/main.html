@@ -1,0 +1,61 @@
+<!--Section-->
+<section class="section section-blog-fw pb-3">
+
+  <!--Grid row-->
+  <div class="row">
+    <div class="col-md-12">
+
+          <!--Featured image-->
+          <div class="cover-image">
+            <img src="/img/video/camera.jpg" alt="{{ page.title }}">
+            <div class="rgba-brown-strong">
+
+          </div>
+        </div>
+
+          <!--Content area-->
+          <div class="card card-cascade wider reverse">
+          <!--Page content-->
+          <div class="card-body">
+            <h1 class="page-heading text-center py-4">{{ page.title }}</h1>
+
+            <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <div class="excerpt">
+              {{ content }}
+            </div>
+
+            <div class="card-deck">
+                  {% for clip in site.data.innovation-sacramento %}
+                  <div class="col-md-4">
+                    <!--Card-->
+                    <div class="card card-image" style = "background-image: src(/img/video/{{clip.photo}}.jpg)">
+
+                    <!--Card-->
+                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                      <div>
+                        <!--Content-->
+                        <h3 class="card-title pt-2"><strong>{{ clip.title }}</strong></h3>
+                        <p>{{ clip.desc}}</p>
+                        <a class="btn btn-orange" href="/video/{{ clip.slug }}">Watch</a>
+
+                    </div>
+                    <!--/content-->
+
+                  </div>
+
+                  </div>
+                  {% endfor %}
+
+          </div>
+
+          </div>
+          <!--Page content-->
+        </div>
+
+    </div>
+  </div>
+  <!--Grid row-->
+
+</section>
+<!--Section-->
