@@ -14,7 +14,7 @@
         </div>
 
           <!--Content area-->
-          <div class="card card-cascade wider reverse">
+          <div class="view overlay">
           <!--Page content-->
           <div class="card-body">
             <h1 class="page-heading text-center py-4">{{ page.title }}</h1>
@@ -27,27 +27,31 @@
 
             <div class="card-deck">
                   {% for clip in site.data.innovation-sacramento %}
-                  <div class="col-md-4">
-                    <!--Card-->
-                    <div class="card card-image" style = "background-image: src(/img/video/{{clip.photo}}.jpg)">
 
                     <!--Card-->
-                    <div class="text-white text-center d-flex align-items-center rgba-black-strong py-5 px-4">
+                    <div class="col-md-4">
+                      <!--Card image-->
+                      <div class-"view overlay">
+                        <img src="/img/video/{{clip.photo}}.jpg" class="img-fluid" alt="camera">
+                      </div>
+                      <!--/Card image-->
+
+                    <!--Content-->
+                    <div class="card-body elegant-color white-text">
                       <div>
-                        <!--Content-->
-                        <h3 class="card-title pt-2"><strong>{{ clip.title }}</strong></h3>
-                        <p>{{ clip.desc}}</p>
-                        <a class="btn btn-orange" href="/video/{{ clip.slug }}">Watch</a>
-
+                        <h4 class="card-title text-center">{{clip.name}}</h4>
+                        <hr class="hr-light">
+                        <p class="font-small mb-4">{{clip.desc}}</p>
+                        <a href="/video/{{ clip.slug }}" class="white-text d-flex justify-content-end" ><h5>Watch</h5><span><i class="fa fa-chevron-right pl-2"></i></span></a>
+                      </div>
                     </div>
                     <!--/content-->
 
-                  </div>
+                    </div>
+                    <!--/Card-->
 
-                  </div>
                   {% endfor %}
-
-          </div>
+                </div>
 
           </div>
           <!--Page content-->
