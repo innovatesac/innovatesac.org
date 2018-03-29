@@ -1,9 +1,10 @@
 ---
-layout: video
+layout: video-main
 title: Innovation City
 comments: true
 youtube: 2SSRz9yy0jc
 button: railyards
+photo: rocket
 ---
 
 Does Sacramento have what it takes to be an "Innovation City"? Find out in the new series "Innovation Sacramento".

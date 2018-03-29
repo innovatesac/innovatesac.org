@@ -1,0 +1,65 @@
+<!--Section-->
+<section class="section section-blog-fw pb-3">
+
+  <!--Grid row-->
+  <div class="row">
+    <div class="col-md-12">
+
+          <!--Featured image-->
+          <div class="cover-image">
+            <img src="/img/video/camera.jpg" alt="{{ page.title }}">
+            <div class="rgba-brown-strong">
+
+          </div>
+        </div>
+
+          <!--Content area-->
+          <div class="view overlay">
+          <!--Page content-->
+          <div class="card-body">
+            <h1 class="page-heading text-center py-4">{{ page.title }}</h1>
+
+            <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <div class="excerpt">
+              {{ content }}
+            </div>
+
+            <div class="card-deck">
+                  {% for clip in site.data.innovation-sacramento %}
+
+                    <!--Card-->
+                    <div class="col-md-4">
+                      <!--Card image-->
+                      <div class-"view overlay">
+                        <img src="/img/video/{{clip.photo}}.jpg" class="img-fluid" alt="camera">
+                      </div>
+                      <!--/Card image-->
+
+                    <!--Content-->
+                    <div class="card-body elegant-color white-text">
+                      <div>
+                        <h4 class="card-title text-center">{{clip.name}}</h4>
+                        <hr class="hr-light">
+                        <p class="font-small mb-4">{{clip.desc}}</p>
+                        <a href="/video/{{ clip.slug }}" class="white-text d-flex justify-content-end" ><h5>Watch</h5><span><i class="fa fa-chevron-right pl-2"></i></span></a>
+                      </div>
+                    </div>
+                    <!--/content-->
+
+                    </div>
+                    <!--/Card-->
+
+                  {% endfor %}
+                </div>
+
+          </div>
+          <!--Page content-->
+        </div>
+
+    </div>
+  </div>
+  <!--Grid row-->
+
+</section>
+<!--Section-->
