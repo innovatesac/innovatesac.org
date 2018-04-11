@@ -1,0 +1,41 @@
+<!--Section-->
+<section class="section section-blog-fw pb-3">
+
+  <!--Grid row-->
+  <div class="row">
+    <div class="col-md-12">
+
+          <!--Featured image-->
+          <div class="cover-image">
+            <img src="/img/video/{{page.photo}}.jpg" alt="camera.jpg">
+            <div class="rgba-brown-strong">
+
+          </div>
+        </div>
+
+          <!--Content area-->
+          <div class="card card-cascade wider reverse">
+          <!--Page content-->
+          <div class="card-body">
+            <h1 class="page-heading text-center py-4">{{ page.title }}</h1>
+
+            <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+            <div class="excerpt">
+              {{ content }}
+            </div>
+
+            <a href="/video/{{ page.button }}" class="btn btn-outline-grey" >
+              Next Video
+            </a>
+
+          </div>
+          <!--Page content-->
+        </div>
+
+    </div>
+  </div>
+  <!--Grid row-->
+
+</section>
+<!--Section-->
