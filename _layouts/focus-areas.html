@@ -3,3 +3,7 @@ layout: default
 ---
 
 {% include focus-areas/intro.html %}
+
+{% if page.additional %}
+  {% include focus-areas/{{page.additional}}.html %}
+{% endif %}
