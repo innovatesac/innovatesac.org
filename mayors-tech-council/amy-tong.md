@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Amy tong
+full-name: Amy Tong
 reference: amy-tong
 title: Chief Information Officer and Director
 organization: State of California Department of Technology
