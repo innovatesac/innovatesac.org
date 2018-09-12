@@ -1,6 +1,6 @@
 ---
 layout: focus-areas
-title: Govtech and Civic Tech
+title: Government (Policy) and Civic Tech
 comments: true
 ---
 

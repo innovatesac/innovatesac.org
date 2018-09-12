@@ -25,7 +25,7 @@ SUTL aims to bring awareness to current and future city initiatives as well as d
 - Health IT and Life Science
 - Food Systems
 - Internet of Things (IoT) and Cybersecurity
-- Government and Civic Technology
+- Government (Policy) and Civic Technology
 - Workforce Development
 
 ## Living Laboratories
