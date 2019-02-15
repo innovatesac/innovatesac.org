@@ -1,0 +1,4 @@
+---
+layout: urbanleap
+permalink: /partner
+---
