@@ -2,7 +2,7 @@
 layout: council
 full-name: Brook Taylor
 reference: brook-taylor
-title: Senior State Regulatory Affairs Specialist
+title: Principal, State Regulatory Affairs 
 organization: Mercedes-Benz Research and Development North America
 ---
 
