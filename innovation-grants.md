@@ -1,3 +1,3 @@
 ---
-layout: grants
+layout: grant-home
 ---
