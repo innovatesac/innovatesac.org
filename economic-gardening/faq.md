@@ -1,12 +1,13 @@
 ---
 layout: faq
-image: sutl-bknd-eg
+image: sutl-bknd-eg.jpg
+questions: eg-faq
 title: Introduction to Economic Gardening
 sub-title: Frequently Asked Questions
 ---
 
 <p>
-  What is it - in a simple sentence?
+  <strong>What is it - in a simple sentence?</strong>
   <li>An economic development program focused on helping Second Stage companies grow.</li>
 </p>
 <p>
