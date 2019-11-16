@@ -1,7 +1,7 @@
 ---
 layout: faq
 image: sutl-bknd-eg.jpg
-questions: eg-faq
+questions: eg-faq.csv
 title: Introduction to Economic Gardening
 sub-title: Frequently Asked Questions
 ---
