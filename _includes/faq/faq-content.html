@@ -1,69 +1,39 @@
 <div class="container">
-  <!-- Accordion wrapper -->
-  <div class="accordion" id="accordionExample">
 
-    <!--Card-->
-    {% for faq in site.data.eg-faq %}
-    <div class="card z-depth-0 bordered">
+  <!-- Page Title -->
+  <h3 class="card-title h3 my-4"><strong>{{page.title}}</strong></h3>
+  <!-- Page Sub-title -->
+  <h4 class="card-title h4 my-4">{{page.sub-title}}</h4>
 
-      <!-- Card Header-->
-      <div class="card-header" id="headingOne">
-        <h5 class="black-text mb-0">
-          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            {{faq.question}}
-          </button>
-        </h5>
-      </div>
+  <!-- Vertical Steppers -->
+  <div class="row mt-1">
+    <div class="col-md-12">
 
-      <!-- Card Body-->
-      <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-        <div class="card-body">
-          {{faq.answer}}
-        </div>
-      </div>
+      <!-- Stepers Wrapper -->
+      <ul class="stepper stepper-vertical">
+
+        {% for faq in site.data.eg-faq %}
+
+        <!-- Step -->
+        <li class="step active">
+
+          <!--Section Title -->
+          <a>
+            <span class="circle"><i class="fa fa-question-circle-o"></i></span>
+            <span class="label">{{faq.question}}</span>
+          </a>
+
+          <!-- Section Description -->
+          <div class="step-content grey lighten-3">
+            <p>{{faq.answer}}</p>
+          </div>
+        </li>
+
+        {% endfor %}
+
+      </ul>
+      <!-- /.Stepers Wrapper -->
     </div>
-    {% endfor %}
-
   </div>
-
-  <ul class="stepper">
-    <li class="step active">
-      <div data-step-label="Just add a data-step-label!" class="step-title waves-effect waves-dark">Step 1</div>
-      <div class="step-new-content">
-        <div class="row">
-          <div class="md-form col-12 ml-auto">
-            <input id="email-non" type="email" class="form-control validate" required>
-            <label for="email-non" class="ml-auto">Your e-mail</label>
-          </div>
-        </div>
-        <div class="step-actions">
-          <button class="waves-effect waves-dark btn btn-sm btn-primary next-step">CONTINUE</button>
-        </div>
-      </div>
-    </li>
-    <li class="step">
-      <div class="step-title waves-effect waves-dark">Step 2</div>
-      <div class="step-new-content">
-        <div class="row">
-          <div class="md-form col-12 ml-auto">
-            <input id="password-non" type="password" class="form-control validate" required>
-            <label for="password-non">Your password</label>
-          </div>
-        </div>
-        <div class="step-actions">
-          <button class="waves-effect waves-dark btn btn-sm btn-primary next-step">CONTINUE</button>
-          <button class="waves-effect waves-dark btn btn-sm btn-secondary previous-step">BACK</button>
-        </div>
-      </div>
-    </li>
-    <li class="step">
-      <div class="step-title waves-effect waves-dark">Step 3</div>
-      <div class="step-new-content">
-        Finish!
-        <div class="step-actions">
-          <button class="waves-effect waves-dark btn btn-sm btn-primary m-0 mt-4" type="button">SUBMIT</button>
-        </div>
-      </div>
-    </li>
-  </ul>
+  <!-- /.Vertical Steppers -->
 </div>
