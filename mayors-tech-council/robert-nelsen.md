@@ -1,7 +1,7 @@
 ---
 layout: council
-full-name: Robert Nelson
-reference: robert-nelson
+full-name: Robert Nelsen
+reference: robert-nelsen
 title: President
 organization: California State University, Sacramento
 ---

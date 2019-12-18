@@ -2,8 +2,8 @@
 layout: council
 full-name: Brook Taylor
 reference: brook-taylor
-title: Head of City Engagement
-organization: Daimler Mobility Services
+title: Manager, City Engagement
+organization: Daimler Urban Mobility - Americas
 ---
 
 <p>Brook Taylor is the Head of City Engagement for Daimler Mobility Services. He’s responsible for collaborating with cities in the US, Central America, South America and beyond to deploy new urban mobility platforms. He has over 14 years of experience specializing in Transportation Public Policy, Government Affairs, Economic Development and Crisis Communications. </p>
