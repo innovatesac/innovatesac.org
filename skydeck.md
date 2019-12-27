@@ -1,0 +1,4 @@
+---
+layout: skydeck
+permalink: /partner
+---
