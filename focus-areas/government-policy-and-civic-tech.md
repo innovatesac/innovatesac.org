@@ -2,6 +2,7 @@
 layout: focus-areas
 title: Government (Policy) and Civic Tech
 comments: true
+icon: university
+additional: gov-civ
 ---
-
-In the age of social media, citizens and governments (should they choose to pay attention) have a much higher level of visibility into what is going on in the communities that matter most to them. This behooves governments to design their processes, many of which are very ingrained, in a manner that is open and accountable to residents. This coupled with the trend of city governments choosing to embrace innovation and find new ways for City Hall to operate, makes government towns an ideal testbed for developing new processes and means of engagement.
+Social media and civic engagement platforms initiated a transformation in the way communities voice their concerns and how local governments are expected to respond. Sacramento aims to set the bar for civic engagement through input and outreach platforms that better connect city officials to city change-makers. This conscious effort makes Sacramento an ideal testbed for developing new processes and means of engagement. Sacramento’s proximity to the State Capitol also provides these technologies with an opportunity to scale across jurisdictions.

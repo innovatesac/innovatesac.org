@@ -2,6 +2,8 @@
 layout: focus-areas
 title: Workforce Development
 comments: true
+icon: briefcase
 ---
+While workforce development is encompassed in every vertical of SUTL, it is a key enough part of the equation that it needs to be specifically addressed. SUTL is committed to working with companies in Sacramento and looking to come to Sacramento. Sacramento’s economic prosperity is reliant on a trained workforce and the City aims to proactively develop programs to train its citizens for jobs of the future.  
 
-While workforce development is encompassed in every vertical of SUTL, it is a key enough part of the equation that it needs to be specifically addressed. MOFIE is committed to working with companies in Sacramento and looking to come to Sacramento, but without the trained workforce, Sacramento’s economy cannot be sustained. To that end, local colleges and universities are crucial to ensure that the programming is in place to train the future workforce and that those institutions are connected to what the City is doing to ensure that students have access to real-world, hands-on projects in their fields.
+The region’s colleges and universities are a critical partner in this mission and frequently engage with the city to identify qualifying candidates and create training programs as new skillset needs arise.  These institutions are committed to helping the City make the most of its economic development opportunities by providing students with real-world and hands-on training.

@@ -3,6 +3,6 @@ layout: focus-areas
 title: Internet of Things (IoT) and Cybersecurity
 comments: true
 additional: iot-cyber
+icon: shield
 ---
-
-Everything from our watches and furniture to city infrastructure is becoming “smart”. More and more devices are developing the capability to connect to take in data about usage and their environments. While this is making our decisions as consumers and government entities more informed and efficient, this connectivity makes us vulnerable to data breeches and increases the potential for personal information to be more readily accessible. In this way, the field of cybersecurity is becoming more important and will play a critical role in many fields.
+As data becomes the world’s most valued commodity, cybersecurity and internet of things (IOT) will continue to shape other sectors. The City is committed to fostering these technologies across the board and helping the emerging sector approach state policymakers as necessary.

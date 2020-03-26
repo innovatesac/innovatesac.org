@@ -1,0 +1,60 @@
+<div class=card>
+<!--Section: Products v.5-->
+<section class="pb-3 my-5">
+  <!--Section heading-->
+  <div class="container">
+    <!-- <h1 class="jumbotron-heading">{{ site.title }}</h1> -->
+    <div class="card-body">
+      <h1 class="page-heading text-center py-4">What's Happening in Sacramento?</h1>
+      <hr>
+
+       {% for study in site.data.government-policy-and-civic-tech %}
+       <!--Grid row-->
+       <div class="row pt-5">
+         <div class="col-lg-6 col-xl-5 mb-3">
+           <!--Image-->
+           <img src="/img/focus-areas/case-study/{{study.img}}.png" alt="{{study.title}}" class="img-fluid z-depth-2" href="{{study.website}}">
+         </div>
+
+         <!--Grid column-->
+         <div class="col-lg-6 col-xl-7 mb-3">
+
+           <!--Grid row-->
+           <div class="row mb-3">
+             <div class="col-1 mr-1">
+               <i class="fa fa-university fa-lg grey-text"></i>
+             </div>
+
+             <div class="col-10">
+               <h3 class="feature-title font-bold">{{study.project}}</h3>
+               <p class="grey-text">{{study.description}}</p>
+               <p class="">
+                 <a href="{{study.website}}" class="btn btn-primary">Visit Website</a>
+                 {% if {study.link} %}
+                   <a href="{{study.link}}" class="btn btn-primary">news</a>
+                 {% endif %}
+               </p>
+             </div>
+           </div>
+           <!--Grid row-->
+
+         </div>
+         <!--Grid column-->
+
+       </div>
+       <!--Grid row-->
+       <hr>
+      {% endfor %}
+
+      <!--div class="excerpt">
+        <h4 class="feature-title text-center pt-5">Get Involved</h4>
+        <p class="text-center">Interested in partnering with us? We want to know how you are working to co-develop Sacramento's innovation ecosystem</p>
+        <a href="/stories" class="btn blue-gradient"><i class="fa fa-rocket"></i> Tell us your story</a>
+      </div-->
+
+    </div>
+    <!--Page content-->
+  </div>
+</section>
+<!--Section: Products v.5-->
+</div>
