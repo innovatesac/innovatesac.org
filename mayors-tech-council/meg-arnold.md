@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Meg Arnold
+full-name: Meg Arnold (Prevous Member)
 reference: meg-arnold
 title: Managing Director
 organization: Valley Vision

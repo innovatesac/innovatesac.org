@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Damian Lynch
+full-name: Damian Lynch (Previous Member)
 reference: damian-lynch
 title: Chief Operations Officer and Event Manager
 organization: HOFDay

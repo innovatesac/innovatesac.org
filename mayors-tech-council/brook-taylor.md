@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Brook Taylor
+full-name: Brook Taylor (Previous Member)
 reference: brook-taylor
 title: Manager, City Engagement
 organization: Daimler Urban Mobility - Americas

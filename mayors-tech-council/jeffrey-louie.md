@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Jeffrey Louie
+full-name: Jeffrey Louie (Previous Member)
 reference: jeffrey-louie
 title: Founder/Entrepreneur
 organization: Capsity

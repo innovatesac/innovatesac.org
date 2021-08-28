@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Monique Brown
+full-name: Monique Brown (Previous Member)
 reference: monique-brown
 title: Sacramento iHub Director
 organization: I/O Labs

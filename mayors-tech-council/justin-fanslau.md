@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Justin Fanslau
+full-name: Justin Fanslau (Previous Member)
 reference: justin-fanslau
 title: Senior Vice President, California
 organization: Strategies 360

@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Erika Bjork
+full-name: Erika Bjork (Previous Member)
 reference: erika-bjork
 title: Vice President of Marketing & Communications
 organization: Sacramento Republic FC

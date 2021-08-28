@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Ryan Montoya
+full-name: Ryan Montoya (Previous Member)
 reference: ryan-montoya
 title: Chief Technology Officer - Strategy, Innovation & Technology
 organization: Sacramento Kings

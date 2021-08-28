@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Tina Reynolds
+full-name: Tina Reynolds (Previous Member)
 reference: tina-reynolds
 title: President
 organization: Uptown Studios

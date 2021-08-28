@@ -1,6 +1,6 @@
 ---
 layout: council
-full-name: Eric Ullrich
+full-name: Eric Ullrich (Previous Member)
 reference: eric-ullrich
 title: Co-Founder
 organization: Hacker Lab
